@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{RXBc:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),m=(n("Wbzz"),n("Bl7J")),o=n("vrFN");t.default=function(){return l.a.createElement(m.a,null,l.a.createElement(o.a,{title:"Home"}),l.a.createElement("h1",null,"On Element documentation"),l.a.createElement("p",null,"Welcome on element documentations"),l.a.createElement("div",{style:{maxWidth:"300px",marginBottom:"1.45rem"}}))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-f1cf4f088c62db1eaa59.js.map
